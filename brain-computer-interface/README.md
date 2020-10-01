@@ -1,4 +1,4 @@
-# Brain–computer Interface
+# Brain–Computer Interface
 
 - [Brain-computer interfaces for communication and control](http://www.cs.cmu.edu/~tanja/BCI/BCIreview.pdf)
 - [Breaking the silence: Brain-computer interfaces (BCI) for communication and motor control](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1469-8986.2006.00456.x)
